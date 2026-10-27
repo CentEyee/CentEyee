@@ -37,10 +37,26 @@ I'm exploring cybersecurity, low-level programming, Linux, and the mechanics beh
 |:--|:--|
 | `FOCUS` | Cybersecurity & system internals |
 | `LANGUAGE` | C · Python |
-| `ENVIRONMENT` | Linux · Windows |
+| `ENVIRONMENT` | Linux |
 | `EXPLORING` | Cryptography · Networking · Digital Forensics |
 | `WORKFLOW` | Terminal-first, curiosity-driven |
 
 ---
 
-### `03` &nbsp; / &nbsp; the toolkit
+03   /   things in progress
+
+[01]  strengthening the fundamentals of C
+[02]  getting comfortable with Linux internals
+[03]  exploring cybersecurity & CTF challenges
+[04]  learning how cryptographic systems work
+[05]  turning experiments into documented projects
+
+<div align="center">
+
+connection established.
+
+Observe carefully. Question everything. Keep building.
+
+<sub>CentEye © · 0x01 — the beginning, not the conclusion.</sub>
+
+</div>
